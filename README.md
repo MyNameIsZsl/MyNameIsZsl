@@ -1,16 +1,38 @@
-## Hi there 👋
+# 欢迎来到我的 GitHub 主页！
 
-<!--
-**MyNameIsZsl/MyNameIsZsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好！我是 [Your Name]，一个热爱编程和技术的开发者。欢迎访问我的 GitHub 主页！
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 目前在学习： [当前学习的技术或课程]
+- 👯 希望能合作： [希望合作的项目或类型]
+- 💬 问我关于： [你擅长的领域或技术]
+- 📫 如何联系我： [你的邮箱或其他联系方式]
+- ⚡ 有趣的事实： [一个有趣的个人事实]
+
+## 我的项目
+
+这里是我一些项目的简要介绍：
+
+### 项目一： [项目名称]
+
+- 描述： [简要描述项目]
+- 技术栈： [使用的技术]
+- 链接： [项目链接]
+
+### 项目二： [项目名称]
+
+- 描述： [简要描述项目]
+- 技术栈： [使用的技术]
+- 链接： [项目链接]
+
+## 统计信息
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsZsl&show_icons=true)
+
+## 最近的活动
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+感谢你的访问！如果你喜欢我的项目，不要忘记给一个 ⭐️ 哦！
